@@ -1,4 +1,4 @@
-#Nuxt Recipe course
+# Nuxt Recipe course
 A simple nuxt and vuejs application with recipes.
 
 https://www.youtube.com/watch?v=RAJZOqr3JZU
